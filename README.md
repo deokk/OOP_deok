@@ -1,5 +1,4 @@
-# OOP_deok
-Object-Oriented Programming Project Assignment 2
+# Object-Oriented Programming Project Assignment 2
 
 ## 프로젝트 개요
 
